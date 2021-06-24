@@ -1,6 +1,6 @@
 # Coordinate-based texture inpainting for pose-guided human image generation
 
-### <img align=center src=./data/icons/project.png width='32'/> [Project](https://saic-violet.github.io/coordinpaint) &ensp; <img align=center src=./data/icons/paper.png width='24'/> [Paper](https://arxiv.org/abs/1906.08240v3) &ensp; <img align=center src=./data/icons/supmat.png width='24'/> [Sup.Mat.](https://saic-violet.github.io/coordinpaint/files/SupMat.pdf) 
+### <img align=center src=./data/icons/project.png width='32'/> [Project](https://saic-violet.github.io/coordinpaint) &ensp; <img align=center src=./data/icons/paper.png width='24'/> [Paper](https://arxiv.org/abs/1811.11459) &ensp; <img align=center src=./data/icons/supmat.png width='24'/> [Sup.Mat.](https://saic-violet.github.io/coordinpaint/files/SupMat.pdf) 
 
 This is the repository with the inference code for the paper **"Coordinate-based texture inpainting for pose-guided human image generation"** (CVPR 2019).
 
